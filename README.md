@@ -1,14 +1,15 @@
-# TSFB-V.02
+SHARE FACEBOOK 
+
 Tools Share Facebook Simple
 
 pkg upgrade && pkg update
 
 pkg install git
 
-git clone https://github.com/MochQinn/TSFB-V.02
+git clone https://github.com/MochQinn/share
 
-cd TSFB-V.02
+cd share
 
 ls
 
-python TSFB.py
+python share.py
