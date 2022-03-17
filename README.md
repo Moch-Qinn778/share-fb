@@ -1,14 +1,16 @@
-SHARE FACEBOOK 
 
-Tools Share Facebook Simple
+
+Install Command:
 
 pkg upgrade && pkg update
 
+pkg install python
+
 pkg install git
 
-git clone https://github.com/MochQinn/share
+git clone https://github.com/MochQinn/share-fb
 
-cd share
+cd share-fb
 
 ls
 
