@@ -8,10 +8,10 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/MochQinn/share-fb
+git clone https://github.com/Moch-Qinn778/share-fb
 
 cd share-fb
 
 ls
 
-python share.py
+python share-fb.py
